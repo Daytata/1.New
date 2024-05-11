@@ -1,0 +1,7 @@
+D:\Code\Brian\1.Test Program\PracticeCode\vd22323\vd22323\bin\Debug\vd22323.exe.config
+D:\Code\Brian\1.Test Program\PracticeCode\vd22323\vd22323\bin\Debug\vd22323.exe
+D:\Code\Brian\1.Test Program\PracticeCode\vd22323\vd22323\bin\Debug\vd22323.pdb
+D:\Code\Brian\1.Test Program\PracticeCode\vd22323\vd22323\obj\Debug\vd22323.csproj.AssemblyReference.cache
+D:\Code\Brian\1.Test Program\PracticeCode\vd22323\vd22323\obj\Debug\vd22323.csproj.CoreCompileInputs.cache
+D:\Code\Brian\1.Test Program\PracticeCode\vd22323\vd22323\obj\Debug\vd22323.exe
+D:\Code\Brian\1.Test Program\PracticeCode\vd22323\vd22323\obj\Debug\vd22323.pdb
